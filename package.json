@@ -1,0 +1,11 @@
+{
+  "name": "onedoc",
+  "version": "0.0.1",
+  "description": "Doc within one page",
+  "repository": "git@github.com:fritx/onedoc.git",
+  "main": "onedoc.js",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "marked": "^0.3.2"
+  }
+}
